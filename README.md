@@ -1,5 +1,6 @@
-# Impôts
+# impots ([Documentation](https://khaniee.github.io/impots/))
 
+Documentation: <https://khaniee.github.io/impots/>
 Gestion des impôts d'une personne
 
 ## TODO

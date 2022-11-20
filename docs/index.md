@@ -1,7 +1,7 @@
-# Impots
+# Impôts
 
 Application ‘impôts’ en mode Client/Serveur qui contiendra les impôts d’une personne.
-
+> Github: [Khaniee/impots](https://github.com/Khaniee/impots/)
 ## Cahier de charge
 
 L’utilisateur (Client) de l’application devra avoir les fonctionnalités suivantes :
