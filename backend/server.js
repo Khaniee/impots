@@ -8,6 +8,6 @@ app.set('port', process.env.PORT || 3000);
 
 const server = http.createServer(app);
 
-server.listen(process.env.PORT || 3000, process.env.HOST || '127.0.0.1', function() {
-    console.log(`Server started listen on : http://${process.env.HOST || '127.0.0.1'}:${server.address().port}`)
+server.listen(process.env.PORT || 3000, function() {
+    console.log(`Server started listen on : http://127.0.0.1:${server.address().port}`)
 });
