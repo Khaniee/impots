@@ -1,4 +1,4 @@
 module.exports = (req, res, next) => {
-    console.log(new Date().toISOString(), req.method, req.url)
+    console.log(req.ip, new Date().toUTCString(), req.method, req.url)
     next();
 }
