@@ -1,6 +1,8 @@
 # impots ([Documentation](https://khaniee.github.io/impots/))
 
-Documentation: <https://khaniee.github.io/impots/>
+> Lien Documentation: <https://khaniee.github.io/impots/>
+> Documentaion: [docs/](docs/index.md)
+
 Gestion des impôts d'une personne
 
 ## TODO
