@@ -29,7 +29,8 @@ L’utilisateur (Client) de l’application devra avoir les fonctionnalités sui
 > NB: Pour pouvoir pusher, vous dévez [créer un token](https://docs.github.com/en/enterprise-server@3.4/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
 1. Commencer par clonner le projet: `git clone https://github.com/Khaniee/impots.git`
-2. Faites votre modification et ajouter les avec: `git add <PATH_FICHIER_MODIFIEE>`
-3. Commitez votre changement avec: `git commit -m "<RESUME_DE_VOTRE_CHANGEMENT>"`
-4. Comme bonne pratique faites d'abord un pull avant de pusher: `git pull`
-5. Et pushez votre changement sur le répo en ligne: `git push`
+2. Ouvrez le repertoire contenant le dossier du projet: `$ cd impots`
+3. Faites votre modification et ajouter les avec: `git add <PATH_FICHIER_MODIFIEE>`
+4. Commitez votre changement avec: `git commit -m "<RESUME_DE_VOTRE_CHANGEMENT>"`
+5. Comme bonne pratique faites d'abord un pull avant de pusher: `git pull`
+6. Et pushez votre changement sur le répo en ligne: `git push`
