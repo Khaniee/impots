@@ -2,6 +2,10 @@
 
 Gestion des impôts d'une personne
 
+## TODO
+
+- [ ] Vous pouvez commencer par ajouter vos noms dans la section membres du `README.md`
+
 ## Sujet
 
 ```txt
