@@ -1,0 +1,18 @@
+{
+  "name": "impots-backend",
+  "version": "1.0.0",
+  "description": "Ce dossier sert pour stocker la partie backend du projet Le backend, en génerale servira les APIs pour que la partie frontend puisses les consommer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "http-server": "^14.1.1"
+  }
+}
