@@ -1,0 +1,4 @@
+# Specify file that is meant to be not added to git repository
+
+# node_modules/
+# fichier_perso.txt
