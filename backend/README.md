@@ -6,4 +6,5 @@ Le backend, en génerale servira les APIs pour que la partie frontend puisses le
 ## Pour lancer le serveur
 
 1. Commencez par vous mettre dans le même dossier `impots/backend`
-2. `npm start`
+2. Installez les dépendances nécessaire si ce n'est déja fait: `npm install`
+3. `npm start`
