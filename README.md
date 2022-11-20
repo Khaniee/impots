@@ -5,6 +5,8 @@ Gestion des impôts d'une personne
 ## TODO
 
 - [ ] Vous pouvez commencer par ajouter vos noms dans la section membres du `README.md`
+- [x] Mettre en place la partie backend
+- [ ] Mettre en place la partie frontend
 
 ## Sujet
 
