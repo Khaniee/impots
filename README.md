@@ -28,4 +28,4 @@ L’utilisateur (Client) de l’application devra avoir les fonctionnalités sui
 2. Faites votre modification et ajouter les avec: `git add <PATH_FICHIER_MODIFIEE>`
 3. Commitez votre changement avec: `git commit -m "<RESUME_DE_VOTRE_CHANGEMENT>"`
 4. Comme bonne pratique faites d'abord un pull avant de pusher: `git pull`
-5. Et pushez votre changement sur le répo offline: `git push`
+5. Et pushez votre changement sur le répo en ligne: `git push`
