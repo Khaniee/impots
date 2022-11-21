@@ -28,6 +28,7 @@ L’utilisateur (Client) de l’application devra avoir les fonctionnalités sui
 ## Membres
 
 - Lovanirina Randrianasoloarinavalona
+- Tsitana Iloharaoke Khanie
 
 ## Pour les collaborateurs du projets
 
